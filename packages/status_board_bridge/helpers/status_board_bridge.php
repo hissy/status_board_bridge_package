@@ -1,12 +1,5 @@
 <?php
 defined('C5_EXECUTE') or die("Access Denied.");
-/**
- * @package Status Board Bridge
- * @author Takuro Hishikawa <hishikawa@concrete5.co.jp>
- * @copyright Copyright (c) 2013 concrete5 Japan Incorporated. (http://concrete5.co.jp)
- * @license MIT License
- *
- */
 
 class StatusBoardBridgeHelper {
 	
