@@ -21,7 +21,7 @@ Click "Questions about Status Board? Help is available right here!" link in abov
 * New page added notification
 
 
-# ToDo
+## ToDo
 
 * Create StatusBoardBridge class (like Job class, enables to get name/description, install, uninstall).
 
