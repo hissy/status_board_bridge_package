@@ -4,7 +4,7 @@ Push website information to Panic brand Status Board.
 
 This is a BETA version!
 
-![screenshot](https://raw.github.com/hissy/status_board_bridge_package/packages/status_board_bridge/screenshot.png)
+![screenshot](https://raw.github.com/hissy/status_board_bridge_package/master/packages/status_board_bridge/screenshot.png)
 
 
 ## Status Board by Panic Inc.
