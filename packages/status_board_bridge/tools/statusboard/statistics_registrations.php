@@ -1,7 +1,7 @@
 <?php	
 defined('C5_EXECUTE') or die("Access Denied.");
-$sbgh = Loader::helper('status_board_bridge','status_board_bridge');
-if( ! $sbgh->varidateAuth('statistics_registrations') )
+$sbbh = Loader::helper('status_board_bridge','status_board_bridge');
+if( ! $sbbh->varidateAuth('statistics_registrations') )
 	exit;
 
 
